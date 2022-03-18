@@ -20,7 +20,7 @@ function Navbar() {
   return (
     <nav>
         <h3>
-            <Link to="/">Messenger</Link>
+            <Link to="/">Mutupusenger</Link>
         </h3>
         <div>
           {user ?
